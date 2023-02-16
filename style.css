@@ -1,0 +1,21 @@
+.header-container ul{
+    list-style: none;
+    display: inline-block;
+    font-weight: bold;
+    color: rgb(56, 56, 153);
+    padding: 40px;
+    margin-left: 400px;
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    width: 60%;
+    font-family: Impact;
+}
+
+.header-container li{
+    display: inline-block;
+    padding: 10px;
+
+}
+.sobre-mim:hover li{
+    color: rgb(245, 196, 255);
+}
