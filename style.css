@@ -7,7 +7,7 @@
     padding: 20px;
     margin-left: 700px;
     text-align: center;
-    background-color: rgb(243, 243, 243);
+    background-color: rgb(247, 247, 247);
     width: 40%;
     font-family: impact;
 }
@@ -24,7 +24,7 @@ ul li:hover{
 .meuNome {
     color:rgb(56, 56, 153);
     font-weight: bold;
-    font-size: 40px;
+    font-size: 50px;
     margin-left: 950px;
     
 }
@@ -35,4 +35,14 @@ ul li:hover{
     width: 400px;
     border: solid rgb(56, 56, 153);
     border-radius: 20%;
+}
+
+.descricao{
+    font-size: 15px;
+    line-height: 30px;
+    position: absolute;
+    bottom: 500px;
+    right: 400px;
+    background-color: rgb(247, 247, 247);
+    padding: 2%
 }
