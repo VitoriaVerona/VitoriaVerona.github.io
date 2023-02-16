@@ -25,5 +25,14 @@ ul li:hover{
     color:rgb(56, 56, 153);
     font-weight: bold;
     font-size: 40px;
-    margin-left: 950px
+    margin-left: 950px;
+    
+}
+
+.foto{
+    margin-left: 200px;
+    margin-bottom: 200px;
+    width: 400px;
+    border: solid rgb(56, 56, 153);
+    border-radius: 20%;
 }
