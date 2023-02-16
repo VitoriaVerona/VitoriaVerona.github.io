@@ -2,12 +2,13 @@
     list-style: none;
     display: inline-block;
     font-weight: bold;
+    font-size: 15px;
     color: rgb(56, 56, 153);
-    padding: 40px;
-    margin-left: 400px;
+    padding: 20px;
+    margin-left: 700px;
     text-align: center;
     background-color: rgb(243, 243, 243);
-    width: 60%;
+    width: 40%;
     font-family: impact;
 }
 
@@ -18,4 +19,11 @@
 }
 ul li:hover{
     color: rgb(245, 196, 255);
+}
+
+.meuNome {
+    color:rgb(56, 56, 153);
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 950px
 }
