@@ -8,7 +8,7 @@
     text-align: center;
     background-color: rgb(243, 243, 243);
     width: 60%;
-    font-family: Impact;
+    font-family: impact;
 }
 
 .header-container li{
@@ -16,6 +16,6 @@
     padding: 10px;
 
 }
-.sobre-mim:hover li{
+ul li:hover{
     color: rgb(245, 196, 255);
 }
