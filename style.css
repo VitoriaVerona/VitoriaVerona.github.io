@@ -1,6 +1,6 @@
 .menu-superior{
-    background-image: url(imagem.jpg);
-    background-blend-mode:soft-light;
+    background-image: url(devweb.jpg);
+    background-blend-mode:multiply;
    background-color: #24253c;
    position: absolute;
    top: 0;
