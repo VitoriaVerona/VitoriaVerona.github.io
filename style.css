@@ -36,7 +36,7 @@ button{
     border-width: 3px;
     color: #e15f59;
     position: absolute;
-    left: 1600px;
+    left: 1550px;
     top: 22px;
     padding-left: 20px;
     padding-right: 20px;
@@ -75,11 +75,12 @@ button:hover{
 
 .main{
     position: absolute;
-    background-color: #333550;
+    background-color: #24253c;
     left: 0;
     right: 0;
     top: 650px;
     padding-bottom: 800px;
+    
 }
 
 .sobre-mim{
@@ -105,7 +106,7 @@ button:hover{
     left: 250px;
     top: 180px;
     border-style:double;
-    border-color:#24253c;
+    border-color:#1d1e31;
     border-width: 10px;
 }
 
