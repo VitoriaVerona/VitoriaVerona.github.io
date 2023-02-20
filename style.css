@@ -48,7 +48,7 @@ button:hover{
     cursor: pointer;
 }
 
-img{
+.foto1{
     position: absolute;
     border-radius: 50%;
     width: 200px;
@@ -71,4 +71,30 @@ img{
     position: absolute;
     top: 460px;
     left: 750px;
+}
+
+.main{
+    position: absolute;
+    background-color: #393b53;
+    left: 0;
+    right: 0;
+    top: 650px;
+    padding-bottom: 800px;
+}
+
+.sobre-mim{
+    position:absolute;
+    font-weight: bold;
+    font-size: 50px;
+    left: 800px;
+    top: 100px;
+    color: white;
+}
+
+.linha-rosa{
+    position: absolute;
+    width: 80px;
+    height: 5px;
+    left: 800px;
+    top: 220px;
 }
