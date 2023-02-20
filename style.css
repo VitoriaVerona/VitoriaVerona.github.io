@@ -1,48 +1,72 @@
-.header-container ul{
-    list-style: none;
-    display: inline-block;
-    font-weight: bold;
-    font-size: 15px;
-    color: rgb(56, 56, 153);
-    padding: 20px;
-    margin-left: 700px;
-    text-align: center;
-    background-color: rgb(247, 247, 247);
-    width: 40%;
-    font-family: impact;
+.menu-superior{
+   background-color: #24253c;
+   position: absolute;
+   top: 0;
+   left: 0;
+   right: 0;
+   padding-bottom: 600px;
+   
+  
+  
 }
-
-.header-container li{
-    display: inline-block;
-    padding: 10px;
-
-}
-ul li:hover{
-    color: rgb(245, 196, 255);
-}
-
-.meuNome {
-    color:rgb(56, 56, 153);
-    font-weight: bold;
-    font-size: 50px;
-    margin-left: 950px;
+ul{
+    padding-left: 600px;
+    padding-top: 20px;
     
 }
 
-.foto{
-    margin-left: 200px;
-    margin-bottom: 200px;
-    width: 400px;
-    border: solid rgb(56, 56, 153);
-    border-radius: 20%;
+ul li{
+    display: inline;
+    padding-left: 50px;
+    color: white;
+    font-weight: bold;
+    
+}
+
+ul li:hover{
+    color: #e15f59;
+    cursor: pointer;
+}
+button{
+    font-weight: bold;
+    background-color: #24253c;
+    border-color: #e15f59;
+    border-width: 3px;
+    color: #e15f59;
+    position: absolute;
+    left: 1600px;
+    top: 22px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+button:hover{
+    color: white;
+    border-color: white;
+    cursor: pointer;
+}
+
+img{
+    position: absolute;
+    border-radius: 50%;
+    width: 200px;
+    left: 780px;
+    top: 170px;
+    border: solid #ffffff;
+}
+
+.nome{
+    font-weight: bolder;
+    color: #e15f59;
+    position: absolute;
+    top: 350px;
+    left: 700px;
+    font-size: 60px;
 }
 
 .descricao{
-    font-size: 15px;
-    line-height: 30px;
+    color: #ffffff;
     position: absolute;
-    bottom: 500px;
-    right: 400px;
-    background-color: rgb(247, 247, 247);
-    padding: 2%
+    top: 460px;
+    left: 750px;
 }
