@@ -153,3 +153,103 @@ td {
     background-color: #ffffff;
     cursor: pointer;
 }
+
+.conhecimento{
+    position: absolute;
+    background-color: #1a1b2e;
+    left: 0;
+    right: 0;
+    top: 2050px;
+    padding-bottom: 800px;
+
+} 
+.conhe-titulo{
+    position: absolute;
+    background-color: #141522;
+    top: 730px;
+    color: #ffffff;
+    padding-bottom: 800px;
+    padding-right: 1800px;
+    padding-left: 300px;
+    padding-top: 100px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.linha-rosa2{
+    position: absolute;
+    width: 110px;
+    height: 5px;
+    top: 970px;
+    left: 300px;
+}
+
+.desenvolvimento-web{
+    color: #e15f59;
+    position: absolute;
+    left: 300px;
+    top: 1070px;
+    font-size: 30px;
+    border: solid #e15f59;
+    padding-bottom: 300px;
+    padding-left: 30px;
+    padding-right: 100px;
+    padding-top: 90px;
+
+}
+ol {
+    color: #ffffff;
+    font-size: 20px;
+    position: absolute;
+    left: 20px;
+    top: 170px;
+    list-style: circle;
+    line-height: 40px;
+}
+
+.fundo-devweb{
+    position: absolute;
+    top: 1080px;
+    left: 310px;
+    width: 400px;
+    height: 100px;
+
+}
+.criacao{
+    color: #e15f59;
+    position: absolute;
+    left: 750px;
+    top: 1070px;
+    font-size: 30px;
+    border: solid #e15f59;
+    padding-bottom: 300px;
+    padding-left: 30px;
+    padding-right: 280px;
+    padding-top: 90px;
+}
+
+.fundo-criacao{
+    position: absolute;
+    top: 1080px;
+    left: 760px;
+    width: 400px;
+    height: 100px;
+}
+.producao{
+    color: #e15f59;
+    position: absolute;
+    left: 1200px;
+    top: 1070px;
+    font-size: 30px;
+    border: solid #e15f59;
+    padding-bottom: 300px;
+    padding-left: 30px;
+    padding-right: 280px;
+    padding-top: 90px;
+}
+.fundo-producao{
+    position: absolute;
+    top: 1080px;
+    left: 1210px;
+    width: 420px;
+    height: 100px;
+}
