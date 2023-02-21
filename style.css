@@ -214,3 +214,42 @@ ol {
     height: 100px;
 
 }
+.criacao{
+    color: #e15f59;
+    position: absolute;
+    left: 750px;
+    top: 1070px;
+    font-size: 30px;
+    border: solid #e15f59;
+    padding-bottom: 300px;
+    padding-left: 30px;
+    padding-right: 280px;
+    padding-top: 90px;
+}
+
+.fundo-criacao{
+    position: absolute;
+    top: 1080px;
+    left: 760px;
+    width: 400px;
+    height: 100px;
+}
+.producao{
+    color: #e15f59;
+    position: absolute;
+    left: 1200px;
+    top: 1070px;
+    font-size: 30px;
+    border: solid #e15f59;
+    padding-bottom: 300px;
+    padding-left: 30px;
+    padding-right: 280px;
+    padding-top: 90px;
+}
+.fundo-producao{
+    position: absolute;
+    top: 1080px;
+    left: 1210px;
+    width: 420px;
+    height: 100px;
+}
