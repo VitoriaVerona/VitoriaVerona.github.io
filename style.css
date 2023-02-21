@@ -1,7 +1,7 @@
 .menu-superior{
-    background-image: url(imagem.jpg);
-    background-blend-mode:soft-light;
-   background-color: #24253c;
+    background-image: url(devweb.jpg);
+    background-blend-mode:multiply;
+   background-color: #141522;
    position: absolute;
    top: 0;
    left: 0;
@@ -26,29 +26,29 @@ ul li{
 }
 
 ul li:hover{
-    color: #e15f59;
+    color: #ed9593;
     cursor: pointer;
 }
-button{
+.contato1{
     font-weight: bold;
     background-color: #24253c;
     border-color: #e15f59;
     border-width: 3px;
     color: #e15f59;
     position: absolute;
-    left: 1600px;
+    left: 1550px;
     top: 22px;
     padding-left: 20px;
     padding-right: 20px;
 }
 
-button:hover{
+.contato1:hover{
     color: white;
     border-color: white;
     cursor: pointer;
 }
 
-img{
+.foto1{
     position: absolute;
     border-radius: 50%;
     width: 200px;
@@ -71,4 +71,85 @@ img{
     position: absolute;
     top: 460px;
     left: 750px;
+}
+
+.main{
+    position: absolute;
+    background-color: #24253c;
+    left: 0;
+    right: 0;
+    top: 650px;
+    padding-bottom: 800px;
+    
+}
+
+.sobre-mim{
+    position:absolute;
+    font-weight: bold;
+    font-size: 50px;
+    left: 800px;
+    top: 50px;
+    color: white;
+}
+
+.linha-rosa{
+    position: absolute;
+    width: 80px;
+    height: 5px;
+    left: 800px;
+    top: 160px;
+}
+
+.foto2{
+    position: absolute;
+    width: 420px;
+    left: 250px;
+    top: 140px;
+    border-style:double;
+    border-color:#1d1e31;
+    border-width: 10px;
+}
+
+.texto{
+    color: #ffffff;
+    position: absolute;
+    left: 800px;
+    top: 200px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.tabela-esquerda{
+    color: #ffffff;
+    background-color:#24253c;
+    position:absolute;
+    left: 800px;
+    top: 340px;
+    line-height: 30px;
+    border: solid #e15f59;
+    border-width: 2px;
+    
+}
+td {
+    padding: 20px;
+    
+}
+.contato2{
+    font-weight: bold;
+    background-color: #e15f59;
+    border-color: #e15f59;
+    border-width: 3px;
+    color: #ffffff;
+    position: absolute;
+    left: 800px;
+    top: 660px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.contato2:hover{
+    color: #e15f59;
+    border-color: white;
+    background-color: #ffffff;
+    cursor: pointer;
 }
