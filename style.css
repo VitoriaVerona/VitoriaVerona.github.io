@@ -287,3 +287,18 @@ ol {
     top: 2100px;
     left: 290px;
 }
+
+.formacao{
+    color: #ed9593;
+    position: absolute;
+    left: 800px;
+    top: 2000px;
+    font-size: 35px;
+}
+.lista6{
+    position: absolute;
+    top: 2090px;
+    left: 850px;
+    display: block;
+    line-height: 70px;
+}
