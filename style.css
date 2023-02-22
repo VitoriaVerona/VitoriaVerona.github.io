@@ -341,3 +341,43 @@ ol {
     top: 2315px;
     left: 890px;
 }
+.redes-sociais{
+    color: #ed9593;
+    position: absolute;
+    left: 1350px;
+    top: 1985px;
+    font-size: 35px;
+}
+.git-logo{
+    position: absolute;
+    width: 60px;
+    left: 1350px;
+    top: 2120px;
+    border-radius: 50%;
+}
+.insta-logo{
+    position: absolute;
+    width: 60px;
+    left: 1450px;
+    top: 2120px;
+    border-radius: 50%;
+}
+.linkedin-logo{
+    position: absolute;
+    width: 60px;
+    left: 1550px;
+    top: 2120px;
+    border-radius: 50%;
+}
+.git-logo:hover{
+    width: 70px;
+    cursor: pointer;
+}
+.insta-logo:hover{
+    width: 70px;
+    cursor: pointer;
+}
+.linkedin-logo:hover{
+    width: 70px;
+    cursor: pointer;
+}
