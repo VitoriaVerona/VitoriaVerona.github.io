@@ -273,3 +273,17 @@ ol {
     top: 1930px;
     left: 300px;
 }
+.habilidades{
+    color:#ed9593;
+    position: absolute;
+    left: 300px;
+    top: 2000px;
+    font-size: 35px;
+
+}
+
+.lista5{
+    position: absolute;
+    top: 2100px;
+    left: 290px;
+}
