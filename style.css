@@ -262,7 +262,7 @@ ol {
     padding-top: 100px;
     right: 0px;
     left: 0px;
-    padding-bottom: 800px;
+    padding-bottom: 600px;
     font-size: 50px;
     font-weight: bold;
 }
@@ -301,4 +301,24 @@ ol {
     left: 850px;
     display: block;
     line-height: 70px;
+}
+
+.naptec{
+    position: absolute;
+    top: 2120px;
+    width: 50px;
+    left: 800px;
+}
+
+.fae{
+    position: absolute;
+    top: 2190px;
+    width: 50px;
+    left: 800px;
+}
+.trybe{
+    position: absolute;
+    top: 2260px;
+    width: 50px;
+    left: 800px;
 }
