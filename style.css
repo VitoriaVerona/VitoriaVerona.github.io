@@ -253,3 +253,23 @@ ol {
     width: 420px;
     height: 100px;
 }
+.hab-e-form-titulo{
+    position: absolute;
+    color: #ffffff;
+    background-color: #24253c;
+    padding-left: 300px;
+    top: 1685px;
+    padding-top: 100px;
+    right: 0px;
+    left: 0px;
+    padding-bottom: 800px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.linha-rosa3{
+    position: absolute;
+    width: 200px;
+    height: 5px;
+    top: 1930px;
+    left: 300px;
+}
