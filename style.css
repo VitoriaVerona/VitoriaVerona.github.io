@@ -7,10 +7,10 @@
    left: 0;
    right: 0;
    padding-bottom: 600px;
-   
-  
-  
 }
+
+
+
 ul{
     padding-left: 600px;
     padding-top: 20px;
@@ -25,9 +25,11 @@ ul li{
     
 }
 
+
 ul li:hover{
     color: #ed9593;
     cursor: pointer;
+    
 }
 .contato1{
     font-weight: bold;
@@ -252,4 +254,132 @@ ol {
     left: 1210px;
     width: 420px;
     height: 100px;
+}
+.hab-e-form-titulo{
+    position: absolute;
+    color: #ffffff;
+    background-color: #24253c;
+    padding-left: 300px;
+    top: 1685px;
+    padding-top: 100px;
+    right: 0px;
+    left: 0px;
+    padding-bottom: 600px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.linha-rosa3{
+    position: absolute;
+    width: 200px;
+    height: 5px;
+    top: 1930px;
+    left: 300px;
+}
+.habilidades{
+    color:#ed9593;
+    position: absolute;
+    left: 300px;
+    top: 2000px;
+    font-size: 35px;
+
+}
+
+.lista5{
+    position: absolute;
+    top: 2100px;
+    left: 290px;
+    line-height: 50px;
+}
+
+.formacao{
+    color: #ed9593;
+    position: absolute;
+    left: 800px;
+    top: 2000px;
+    font-size: 35px;
+}
+.lista6{
+    position: absolute;
+    top: 2070px;
+    left: 850px;
+    display: block;
+    line-height: 90px;
+}
+
+.naptec{
+    position: absolute;
+    top: 2115px;
+    width: 50px;
+    left: 800px;
+}
+
+.fae{
+    position: absolute;
+    top: 2205px;
+    width: 50px;
+    left: 800px;
+}
+.trybe{
+    position: absolute;
+    top: 2295px;
+    width: 50px;
+    left: 800px;
+}
+.curso-tecnico{
+    color: #ed9593;
+    position: absolute;
+    top: 2135px;
+    left: 890px;
+}
+.producao-multimidia{
+    color: #ed9593;
+    position: absolute;
+    top: 2230px;
+    left: 890px;
+}
+.dev-web{
+    color: #ed9593;
+    position: absolute;
+    top: 2315px;
+    left: 890px;
+}
+.redes-sociais{
+    color: #ed9593;
+    position: absolute;
+    left: 1350px;
+    top: 1985px;
+    font-size: 35px;
+}
+.git-logo{
+    position: absolute;
+    width: 60px;
+    left: 1350px;
+    top: 2120px;
+    border-radius: 50%;
+}
+.insta-logo{
+    position: absolute;
+    width: 60px;
+    left: 1450px;
+    top: 2120px;
+    border-radius: 50%;
+}
+.linkedin-logo{
+    position: absolute;
+    width: 60px;
+    left: 1550px;
+    top: 2120px;
+    border-radius: 50%;
+}
+.git-logo:hover{
+    width: 70px;
+    cursor: pointer;
+}
+.insta-logo:hover{
+    width: 70px;
+    cursor: pointer;
+}
+.linkedin-logo:hover{
+    width: 70px;
+    cursor: pointer;
 }
