@@ -7,10 +7,10 @@
    left: 0;
    right: 0;
    padding-bottom: 600px;
-   
-  
-  
 }
+
+
+
 ul{
     padding-left: 600px;
     padding-top: 20px;
@@ -25,9 +25,11 @@ ul li{
     
 }
 
+
 ul li:hover{
     color: #ed9593;
     cursor: pointer;
+    
 }
 .contato1{
     font-weight: bold;
