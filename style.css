@@ -25,12 +25,17 @@ ul li{
     
 }
 
-
-ul li:hover{
-    color: #ed9593;
-    cursor: pointer;
-    
+a{
+    color: #ffffff;
+    text-decoration: none;
 }
+
+
+a:hover{
+    color: #ed9593;
+}
+
+
 .contato1{
     font-weight: bold;
     background-color: #24253c;
